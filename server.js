@@ -4,6 +4,6 @@ const http = require("http")
     res.end("response provided")
 
 })
-server.listen("2002", () => {
+server.listen("3001", () => {
     console.log("server created")
 });
